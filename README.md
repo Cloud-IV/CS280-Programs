@@ -12,3 +12,9 @@ Assignment 2, over the course of three parts, required me to build my own lexica
   2. The Test Program: this program calls the GetNextToken() method defined in the lexical analzyer repeatedly until an ERR (error) or DONE
      Token is returned. Depending on various command line arguments passed, it would keep and print various statistics about the number and
      type of Tokens encountered.
+
+Similar to Assignment 2, Assignment 3 required me to build a parser that utilizes the lexical analyzer from Assignment 2 to function. It identifies valid combinations of Tokens as defined in Assignment 2. Using various header files, I was to implement two programs:
+  1. The Parser: this is the program that recognizes valid combinations of Tokens and produces a parse tree if the input was succesfully   
+     parsed. It utilizes a recursive descent parser that defines a function for each terminal symbol.
+  2. The Test Program: this program calls the parser repeatedly in a similar fashion as how the test program in Assignment 2 repeatedly    
+     called the lexical anaylzer. Also contains error checking and statistics handling.
