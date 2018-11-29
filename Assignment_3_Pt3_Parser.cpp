@@ -1,6 +1,6 @@
 //----------------------------------------------------------------------------------------------------------------------
 // Author: Abrar Rouf
-// Assignment_3_Pt1_Parser.cpp modified from parseSKELETON provided by Gerard Ryan
+// Assignment_3_Pt3_Parser.cpp modified from parseSKELETON provided by Gerard Ryan
 //----------------------------------------------------------------------------------------------------------------------
 #include "parse.h"
 
