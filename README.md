@@ -18,3 +18,4 @@ Similar to Assignment 2, Assignment 3 required me to build a parser that utilize
      parsed. It utilizes a recursive descent parser that defines a function for each terminal symbol.
   2. The Test Program: this program calls the parser repeatedly in a similar fashion as how the test program in Assignment 2 repeatedly    
      called the lexical anaylzer. Also contains error checking and statistics handling.
+*Part 2 is missing because I overwrote Part 1 with Part 3 and forgot to save it as a separate file. The main difference between part 2 and part 3 was dealing with how to handle operators for the lower precendence levels of the parse tree versus the higher precedence levels.
